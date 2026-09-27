@@ -6,5 +6,5 @@ printer-[0-9]*_[0-9]*.cfg
 *.bak
 *.bkp
 *.csv
-*.zip
+2022-01-28-raspios-bullseye-arm64-full.zip
 ShakeTune_results
